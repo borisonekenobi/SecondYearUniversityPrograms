@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 2/prepandtest-borisonekenobi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 2/tutorial-2-task2-borisonekenobi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 3/tutorial3-borisonekenobi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 4/tutorial4-borisonekenobi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scripting Programming Language Fundamentals/Tutorial 5/tutorial-5-borisonekenobi" vcs="Git" />
   </component>
 </project>
